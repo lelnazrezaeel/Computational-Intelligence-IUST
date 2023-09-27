@@ -1,5 +1,5 @@
 # Computational-Intelligence-IUST
-My solutions to IUST's Fundamentals of Computational Intelligence, Spring 2023, Dr. Mozayani.
+My solutions to IUST's Fundamentals of Computational Intelligence, Fall 2022, Dr. Mozayani.
 
 ## <img width="20" height="20" src="https://img.icons8.com/ios/50/41b883/homework.png" alt="homework"/> Homeworks
 ### HW1 
